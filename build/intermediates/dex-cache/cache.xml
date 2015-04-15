@@ -16,11 +16,11 @@
         <dex dex="E:\and_work\HelloWorld\app\build\intermediates\pre-dexed\debug\classes-cb1f51efd95f771030ef598852f372d60e8e1f0b.jar" />
     </item>
     <item
-        jar="E:\Program Files\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.0.0\support-annotations-22.0.0.jar"
+        jar="C:\Users\san jose\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\22.0.0\support-annotations-22.0.0.jar"
         jumboMode="false"
         revision="21.1.2"
         sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
-        <dex dex="E:\and_work\HelloWorld\app\build\intermediates\pre-dexed\debug\support-annotations-22.0.0-59fb953eb4f6295b14ce0483a8e6271e1a700568.jar" />
+        <dex dex="E:\and_work\HelloWorld\app\build\intermediates\pre-dexed\debug\support-annotations-22.0.0-f13a5766409f6ddf253cc20b0a9611f090a365e0.jar" />
     </item>
     <item
         jar="E:\and_work\HelloWorld\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\classes.jar"
